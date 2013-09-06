@@ -1,0 +1,17 @@
+/* 
+    Document   : estilo
+    Created on : 6/09/2013, 08:03:13 AM
+    Author     : 202
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+p{
+    
+ background-color: appworkspace;   
+    
+}
+
